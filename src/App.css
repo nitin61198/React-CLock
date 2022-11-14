@@ -1,0 +1,13 @@
+#head,#clock{
+  text-align: center;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+#clock{
+  color: red;
+  text-decoration: underline;
+}
+#head{
+  /* border: 1px solid red; */
+}
